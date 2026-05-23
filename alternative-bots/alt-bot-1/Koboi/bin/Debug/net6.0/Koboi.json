@@ -1,0 +1,10 @@
+{
+  "name": "Koboi",
+  "version": "1.0",
+  "authors": [ "Raymond Kolose"],
+  "description": "Strategi Greedy (Aiming Time): Mengincar target yang posisinya paling sejajar dengan moncong meriam saat ini, meminimalkan waktu putar senjata demi eksekusi tembakan instan.",
+  "homepage": "",
+  "countryCodes": [ "id" ],
+  "platform": ".Net 6.0",
+  "programmingLang": "C#"
+}

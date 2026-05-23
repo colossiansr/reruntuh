@@ -1,0 +1,10 @@
+{
+  "name": "Sniper",
+  "version": "1.0",
+  "authors": [ "Raymond Kolose"],
+  "description": "Strategi Greedy (Speed): Memprioritaskan target yang pergerakannya paling lambat atau sedang diam untuk menjamin tingkat akurasi tembakan (hit rate) yang mutlak.",
+  "homepage": "",
+  "countryCodes": [ "id" ],
+  "platform": ".Net 6.0",
+  "programmingLang": "C#"
+}

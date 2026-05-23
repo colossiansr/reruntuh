@@ -1,0 +1,10 @@
+{
+  "name": "Killa",
+  "version": "1.0",
+  "authors": [ "Raymond Kolose"],
+  "description": "Strategi Greedy (Energy/Health): Mengabaikan jarak dan memprioritaskan target dengan sisa energi (darah) paling rendah untuk secepat mungkin mendapatkan poin dari kill bonus.",
+  "homepage": "",
+  "countryCodes": [ "id" ],
+  "platform": ".Net 6.0",
+  "programmingLang": "C#"
+}
